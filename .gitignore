@@ -1,0 +1,6 @@
+model/
+dataset_fix/
+hasil/
+.vscode/
+__pycache__/
+*.pyc
